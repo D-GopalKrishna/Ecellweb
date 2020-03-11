@@ -1,0 +1,114 @@
+
+body{
+	background: rgb(255, 179, 179);
+	margin: 10px 20px;
+	font-family: Arial;
+	font-size: 19px
+}
+
+h1{
+	text-align: center;
+	text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.a{
+	background: rgba(255, 77, 77,0.5);
+	border-style: dashed;
+	border-color: rgb(153, 51, 0);
+	border-width: 3px
+
+}
+
+#k{
+	text-align: center;
+	text-decoration-line: underline;
+
+}
+
+.b{
+	background: rgba(255, 117, 26,0.4);
+	text-align: center;
+	border:1px solid rgb(153, 51, 0);
+	margin-left: 80px;
+	margin-right: 80px;
+
+}
+#c{
+	background: rgba(38, 153, 0,0.5);
+	text-align: center;
+	border:1px solid rgb(153, 51, 0);
+	margin-left: 160px;
+	margin-right: 90px;
+	margin: auto;
+	padding: 8px;
+	width:60%;
+
+}
+
+
+
+.w{
+	font-size: 16px;
+	font-style: italic;
+}
+
+
+.n{
+	padding-left: 10px;
+	background:rgba(255, 153, 153, 1.0);
+	/*border:1px solid rgb(204, 0, 82);*/
+}
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	/*width: 50%*/
+}
+
+.u{
+	text-align: center;
+}
+
+
+
+.v{
+	background: rgba(255, 80, 102);
+	font-family: monospace;
+	font-size: 12px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	padding-top: 1px
+
+
+}
+
+
+
+#abcd{
+	text-decoration-line: underline;
+}
+
+
+
+
+
+
+
+
+
+
+/*li a[href="www.codechef.com"]{
+	color:blue;
+}*/
+
+
+
+
+
+
+
+
+/**{
+	color: white;
+}*/
